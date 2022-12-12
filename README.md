@@ -1,16 +1,6 @@
 # flutter_sqflite
 
-A new Flutter project.
+## Andi Mushawwir Rahmat TI-3B (2041720235)
+![1](https://user-images.githubusercontent.com/75873471/207037757-0ca4e4b5-ae4e-4bb0-a858-931592ce0431.png)
+![2](https://user-images.githubusercontent.com/75873471/207037778-b999f9ad-4d16-4b91-bc15-09b5fad3a063.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
